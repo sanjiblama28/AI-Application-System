@@ -1,7 +1,7 @@
-## AI Application System
+## AI Application System - Midterm Assignment
 
 ```
-Name: Sanjib tamang
+Name: Sanjib Tamang
 student ID : 12194939
 ```
 
